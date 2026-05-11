@@ -1,2 +1,2 @@
 # Kitapci_projesi
-Kitapçı Web Sitesi- HTML, CSS, JavaScript
+Kitapçı Web Sitesi- HTML, CSS, JavaScript, PHP, MYSQL
